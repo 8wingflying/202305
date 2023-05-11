@@ -109,6 +109,7 @@
 
 ### 3B業務持續運作管理
 - [NIST SP SP 800-34 Rev. 1  Contingency Planning Guide for Federal Information Systems](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final)
+- [ISO 22301:2019 Security and resilience — Business continuity management systems — Requirements](https://www.iso.org/standard/75106.html)
 
 ## 第4單元 作業安全
 ## 第5單元 資訊委外安全
