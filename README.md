@@ -42,8 +42,19 @@
 
 8.6.3 剩餘資訊安全風險的驗收
 
-
+# [數位發展部|Ministry of Digital Affairs| MODA]()
 [政府組態基準|Government Configuration Baseline|GCB](https://www.nics.nat.gov.tw/GCB.htm?lang=zh)
+
+## [國家資通安全研究院](https://www.nics.nat.gov.tw/Default-1.htm?lang=zh)
+- 請關注 漏洞警訊公告   更多漏洞警訊[漏洞警訊公告](https://www.nics.nat.gov.tw/Vulnerability-1.htm)
+- [資安人才培訓服務網](https://ctts.nics.nat.gov.tw/about/Summary)
+  - [資安職能訓練發展藍圖 ](https://ctts.nics.nat.gov.tw/)
+  - 推薦你考上此科後持續深耕技術
+    - 管理類職能課程
+      - 資通系統風險管理
+      - 政府資訊作業委外安全管理
+      - 資安稽核實務
+
 ## 第5單元 資訊委外安全
 ## 第6單元 存取控制與加解密技術
 ## 第7單元 網路安全與實體安全
