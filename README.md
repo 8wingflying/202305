@@ -43,7 +43,15 @@
 8.6.3 剩餘資訊安全風險的驗收
 
 # [數位發展部|Ministry of Digital Affairs| MODA]()
-[政府組態基準|Government Configuration Baseline|GCB](https://www.nics.nat.gov.tw/GCB.htm?lang=zh)
+## 資通安全署
+- [資安演練與稽核](https://moda.gov.tw/ACS/operations/drill-and-audit/652)
+  - 資通安全外部稽核
+    - 表1、稽核作業檢測項目
+    - 表2、實地稽核構面及項目
+    - 相關檔案
+      - 112年資通安全稽核計畫
+      - 112年資通安全稽核實地稽核表（適用公務機關）
+      - 112年資通安全稽核實地稽核表（適用特定非公務機關）
 
 ## [國家資通安全研究院](https://www.nics.nat.gov.tw/Default-1.htm?lang=zh)
 - 請關注 漏洞警訊公告   更多漏洞警訊[漏洞警訊公告](https://www.nics.nat.gov.tw/Vulnerability-1.htm)
@@ -61,6 +69,7 @@
     - 資安治理成熟度評估參考指引v1.2_1110829.rar
     - 政府機關雲端服務應用資安參考指引v1.2_1110817.rar
     - 安全控制措施參考指引v4.0_1110131.rar
+- [政府組態基準|Government Configuration Baseline|GCB](https://www.nics.nat.gov.tw/GCB.htm?lang=zh)
 - [資安人才培訓服務網](https://ctts.nics.nat.gov.tw/about/Summary)
   - [資安職能訓練發展藍圖 ](https://ctts.nics.nat.gov.tw/)
   - 推薦你考上此科後持續深耕
@@ -120,9 +129,26 @@
 ## 第10單元 資通安全事件通報及應變
 - [資通安全事件通報及應變辦法 - 全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030305)
 
+## 安全控制措施(Security  Controls) == > 隱私權保護措施(Privacy Controls)
+- 共通規範|安全控制措施參考指引v4.0_1110131
+- 共通規範|資通系統防護基準驗證實務(V1.1)_1110928
+  - 2. 資通系統防護基準驗證
+    - 2.1 存取控制
+    - 2.2 事件日誌與可歸責性
+    - 2.3 營運持續計畫
+    - 2.4 識別與鑑別
+    - 2.5 系統與服務獲得
+    - 2.6 系統與通訊保護
+    - 2.7 系統與資訊完整性
+    - 附件1資通系統防護基準檢核表
+- [NIST SP 800-53 Rev. 5 Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+- [NIST SP 800-53B Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-53b/final)
 
 
-[ISO 19011:2018 Guidelines for auditing management systems](https://www.iso.org/obp/ui/#iso:std:iso:19011:ed-3:v1:en)
+## 資安稽核
+- [ISO 19011:2018 Guidelines for auditing management systems](https://www.iso.org/obp/ui/#iso:std:iso:19011:ed-3:v1:en)
+- [110 年資通安全稽核計畫](https://www.chsmr.chc.edu.tw/ezfiles/0/1000/attach/0/pta_10291_9517870_07477.pdf)
+- [110年度公務機關資安稽核概況報告](https://www-api.moda.gov.tw/File/Get/yvmfBl2dupMMx1p)
  
 
 
