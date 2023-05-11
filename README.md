@@ -23,7 +23,7 @@
 - [著作權法施行細則](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070018&kw=%e8%91%97%e4%bd%9c%e6%ac%8a)
 
 ## 第3單元 資通安全風險管理與業務持續運作管理
-### 3A風險管理(Risk Management)
+### 3A 風險管理(Risk Management)
 - [NIST Risk Management Framework RMF](https://csrc.nist.gov/Projects/risk-management)
 - [ISO/IEC 27005:2022 Information security, cybersecurity and privacy protection — Guidance on managing information security risks]()
 
@@ -41,7 +41,7 @@
   - 風險負責人(risk owners)的批准    參看 8.6.2 Approval by risk owners
   - 剩餘資訊安全風險的驗收  參看  8.6.3 Acceptance of the residual information security risks
 
-### 3B業務持續運作管理
+### 3B 業務持續運作管理
 - [NIST SP SP 800-34 Rev. 1  Contingency Planning Guide for Federal Information Systems](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final)
 - [ISO 22301:2019 Security and resilience — Business continuity management systems — Requirements](https://www.iso.org/standard/75106.html)
 
