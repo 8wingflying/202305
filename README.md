@@ -119,7 +119,9 @@
 ## 第10單元 資通安全事件通報及應變
 - [資通安全事件通報及應變辦法 - 全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030305)
 
-  
+
+
+[ISO 19011:2018 Guidelines for auditing management systems](https://www.iso.org/obp/ui/#iso:std:iso:19011:ed-3:v1:en)
  
 
 
