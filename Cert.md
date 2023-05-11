@@ -1,7 +1,7 @@
 # 資通安全專業證照清單
 - [112年修正資通安全專業證照認可審查作業流程及更新資通安全專業證照清單](https://moda.gov.tw/ACS/laws/certificates/676)
 
-# 推薦的資安專業證照 
+# 推薦的iPAS資安專業證照 [考試樣題&雲端課程](https://www.ipas.org.tw/ise/AbilityPageContent.aspx?mnuno=855dc817-1946-41de-8c50-c6b44e6f0949&pgeno=92664c36-72cf-418c-98a9-c4e8a769dd64)
 - iPAS經濟部產業人才能力鑑定推動網 | [資訊安全工程師](https://www.ipas.org.tw/ISE/)
 - 初級:一年兩次 | 中級:一年一次  [歷年考試成果](https://www.ipas.org.tw/ISE/AbilityPageContent.aspx?pgeno=b53d1159-f9d1-415b-bd2f-b915ae16e39d)
   - 112年第二次初級資訊安全工程師能力鑑定－2023/11/25 ~ 2023/11/25
