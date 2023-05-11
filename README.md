@@ -77,7 +77,14 @@
       - 資通系統風險管理
       - 政府資訊作業委外安全管理  
       - 資安稽核實務
-
+### 採購規範 [資訊服務採購網](https://www.cloudmarketplace.org.tw/spo_order/public/)
+- 勞務服務分類
+  - 資安健診服務
+  - 資通安全威脅偵測管理(SOC)服務
+  - 弱點檢測服務
+  - 滲透測試服務
+  - 社交工程演練服務
+  - 防火牆服務
 ## 第3單元 資通安全風險管理與業務持續運作管理
 ### 3A風險管理
 - [NIST Risk Management Framework RMF](https://csrc.nist.gov/Projects/risk-management)
