@@ -17,29 +17,24 @@
 ## 第1單元 資通安全基本觀念
 ## 第2單元 資通安全相關法規
 - [資通安全事件通報及應變辦法 - 全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030305)
-- [國家機密保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0060003&kw=%e5%9c%8b%e5%ae%b6%e6%a9%9f%e5%af%86%e4%bf%9d%e8%ad%b7%e6%b3%95)
-- [國家機密保護法施行細則](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0060005&kw=%e5%9c%8b%e5%ae%b6%e6%a9%9f%e5%af%86%e4%bf%9d%e8%ad%b7%e6%b3%95)
-- [著作權法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070017&kw=%e8%91%97%e4%bd%9c%e6%ac%8a)
-- [著作權法施行細則](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070018&kw=%e8%91%97%e4%bd%9c%e6%ac%8a)
-
+- 國家機密
+  - [國家機密保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0060003&kw=%e5%9c%8b%e5%ae%b6%e6%a9%9f%e5%af%86%e4%bf%9d%e8%ad%b7%e6%b3%95)
+  - [國家機密保護法施行細則](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0060005&kw=%e5%9c%8b%e5%ae%b6%e6%a9%9f%e5%af%86%e4%bf%9d%e8%ad%b7%e6%b3%95)
+- 個人資料保護
+  - [個人資料保護法 ](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021)
+  - [個人資料保護法施行細則](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050022)
+- 智慧財產相關法律
+  - [著作權法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070017&kw=%e8%91%97%e4%bd%9c%e6%ac%8a)
+  - [著作權法施行細則](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070018&kw=%e8%91%97%e4%bd%9c%e6%ac%8a)
+  - [商標法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070001&kw=%e5%95%86%e6%a8%99%e6%b3%95)
+  - [商標法施行細則](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070002&kw=%e5%95%86%e6%a8%99%e6%b3%95)
+  - [營業秘密法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080028)
 ## 第3單元 資通安全風險管理與業務持續運作管理
 ### 3A 風險管理(Risk Management)
 - [NIST Risk Management Framework RMF](https://csrc.nist.gov/Projects/risk-management)
 - [ISO/IEC 27005:2022 Information security, cybersecurity and privacy protection — Guidance on managing information security risks]()
 
-- ISO 27005 規範的風險處理(risk treatment)流程
-- 1.選擇合適的資訊安全風險處理方案
-  - 參看 8.2 Selecting appropriate information security risk treatment options 
-- 2 確定實施資訊安全風險處理方案所必需的所有控制措施
-  - 參看 8.3 Determining all controls that are necessary to implement the information security  risk treatment options
-- 3.將確定的控制與 ISO/IEC 27001:2022 附錄 A 中的控制進行比較
-  - 8.4 Comparing the controls determined with those in ISO/IEC 27001:2022, Annex A
-- 4.產出 '適用性聲明(SOA)'
-  - 8.5 Producing a Statement of Applicability
-- 5.完成 `資訊安全風險處理計劃`  參看8.6 Information security risk treatment plan
-  - 風險處理計劃的製定   參看8.6.1 Formulation of the risk treatment plan
-  - 風險負責人(risk owners)的批准    參看 8.6.2 Approval by risk owners
-  - 剩餘資訊安全風險的驗收  參看  8.6.3 Acceptance of the residual information security risks
+
 
 ### 3B 業務持續運作管理
 - [NIST SP SP 800-34 Rev. 1  Contingency Planning Guide for Federal Information Systems](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final)
