@@ -9,7 +9,7 @@
 ### M2_資產與風險管理
 - M2_1資產管理:資產分類分級與盤點
 - M2_2風險管理(RiSK management):風險評鑑(RISK assessment)與風險處理(Risk treatment)
-  - [M2_2題庫](./M2_2風險管理.pdf) 
+  - [M2_2題庫](./M2_2風險管理(RiSK management).pdf) 
 ### M3_存取控制、加解密與金鑰管理
 - M3_1存取控制
 - M3_2身份認證
