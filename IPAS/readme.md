@@ -5,14 +5,21 @@
 - M1_3相關法規概論與遵循
   - 資安管理法與子法
   - 隱私權保護
-  - 智慧財產權
+  - 智慧財產權 [教學影片](https://youtu.be/VDjyFwi-0TU)
 ## M2_資產與風險管理
 - M2_1資產管理:資產分類分級與盤點
 - M2_2風險管理(RiSK management):風險評鑑(RISK assessment)與風險處理(Risk treatment)
 ## M3_存取控制、加解密與金鑰管理
 - M3_1存取控制
 - M3_2身份認證
+  - 身分驗證技術
+    - [補充教材下載](./各種身分鑑別(Authentication)技術.pdf) 
+    - [教學影片](https://youtu.be/ClsoBSxzhlc)
 - M3_3加解密與金鑰生命週期
+  - 密碼學的應用 [補充教材下載](./密碼學的應用.pdf) 
+    - 密碼學的應用1:數位信封與數位簽章 [教學影片](https://youtu.be/LIG-mXyJTG0)
+    - 密碼學的應用2:PKI 公開金鑰基礎建設[教學影片](https://youtu.be/G02vkzLSrE4)
+
 ## M4_事故管理與營運持續
 - M4_1事件與事故管理
 - M4_2備援與營運持續
