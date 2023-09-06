@@ -26,7 +26,7 @@
   - 資通安全事件通報及應變辦法
   - 法規依據[資通安全事件通報及應變辦法 - 全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030305)
 - M4_2備援與營運持續
-  - 備援
+  - Backup備份與備援 [Backup備份與備援 題庫](M_4_2_1Backup備份與備援.pdf)
   - 營運持續 [營運持續 題庫](M4_2_2營運持續.pdf)
     - 營運持續管理（Business Continuity Management, BCM）| 營運持續計畫（Business Continuity Plan, BCP）
 ## T_資訊安全技術概論
