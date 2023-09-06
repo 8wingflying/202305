@@ -25,7 +25,8 @@
 - M4_1事件與事故管理
 - M4_2備援與營運持續
   - 備援
-  - 營運持續 
+  - 營運持續 [營運持續 題庫]()
+    - 營運持續管理（Business Continuity Management, BCM）| 營運持續計畫（Business Continuity Plan, BCP）
 ## T_資訊安全技術概論
 ### T1_網路與通訊安全
 - T1_1網路概論
