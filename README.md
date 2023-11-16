@@ -17,6 +17,14 @@
 - 第10單元 資通安全事件通報及應變
 
 ## 第1單元 資通安全基本觀念
+- CIA
+- NIST CSF
+  - 官方網址: https://www.nist.gov/cyberframework
+  - ITHOME報導:
+    - 5月4日，NIST CSF網路安全框架2.0草案釋出，原五大功能構面有新變化，新增「治理」一項
+    - ITHOME專欄:https://www.ithome.com.tw/article/133173
+    -  [【快速認識NIST網路安全框架】從五大構面評估企業資安防禦現況與目標 ](https://www.ithome.com.tw/news/133170)
+    - [【NIST CSF導入關鍵】7步驟打造整體安全防護網]()
 ## 第2單元 資通安全相關法規
 - [資通安全事件通報及應變辦法 - 全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030305)
 - 國家機密
