@@ -46,8 +46,6 @@
 - [NIST Risk Management Framework RMF](https://csrc.nist.gov/Projects/risk-management)
 - [ISO/IEC 27005:2022 Information security, cybersecurity and privacy protection — Guidance on managing information security risks]()
 
-
-
 ### 3B 業務持續運作管理
 - [NIST SP SP 800-34 Rev. 1  Contingency Planning Guide for Federal Information Systems](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final)
 - [ISO 22301:2019 Security and resilience — Business continuity management systems — Requirements](https://www.iso.org/standard/75106.html)
@@ -60,7 +58,7 @@
   - [netstat](./netstat.md)
 - 實體安全 
 ## 第8單元 應用程式安全
-- [實作單元SQl Injection]()
+- [實作單元SQl Injection](practice.md)
 ## 第9單元 資通安全健診
 - [112 年共同供應契約資通安全服務品項採購規範](1116_2.pdf)
   - 第 1 組資安健診服務
