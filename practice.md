@@ -56,6 +56,7 @@ Password:<br><input type="password" name = "pass"><br>
 onclick="hack()"> 
 </form><br><br><HR>
 ```
+![XSS](./XSS.png)
 # 資料表欄位加密
 - 資料表範例
 - 建立資料表
