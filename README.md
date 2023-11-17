@@ -58,7 +58,7 @@
   - [netstat](./netstat.md)
 - 實體安全 
 ## 第8單元 應用程式安全
-- [實作單元SQl Injection](practice.md)
+- [實作單元SQL Injection](./practice.md)
 ## 第9單元 資通安全健診
 - [112 年共同供應契約資通安全服務品項採購規範](1116_2.pdf)
   - 第 1 組資安健診服務
