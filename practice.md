@@ -25,6 +25,7 @@
   - 在 Last Name 欄位輸入「alice';delete from salaries where userid='steven」後，再重新輸入「jsmith' ; select * from salaries where '1'='1」並檢視刪除的結果
   - 在 Last Name 欄位輸入「alice' ; ALTER table salaries add temp char(255); select * from salaries where '1'='1」並檢視增加的結果
 
+![String SQL Injection](./StringSQLI.png)
 ## XSS 測試步驟
 - Stored XSS
   - 點選 Cross-Site Scripting(XSS) > Stored XSS Attack)
